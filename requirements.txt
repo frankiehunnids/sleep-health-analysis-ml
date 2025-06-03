@@ -1,0 +1,1 @@
+pip install openai pdf2image pytesseract pillow
