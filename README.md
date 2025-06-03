@@ -5,11 +5,6 @@ A data analysis and machine learning project exploring how lifestyle factors aff
 
 This project explores how various lifestyle factors (e.g., stress level, physical activity, BMI) relate to sleep quality and duration. Using Python and machine learning, we performed exploratory data analysis and built a linear regression model to predict sleep duration.
 
-## Project Structure
-- `notebooks/`: Contains EDA and modeling Jupyter notebooks.
-- `data/`: Dataset(s) used for analysis.
-- `images/`: Visualizations generated during the project.
-
 ## Technologies
 - Python (Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib)
 - Jupyter Notebook
